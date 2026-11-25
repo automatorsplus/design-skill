@@ -1,6 +1,6 @@
 # Design Studio Skill for Claude Code
 
-> Part of the **Automators+** skills library -- Claude Code skills shared with the Automators community: https://www.skool.com/automation-forge-7306
+> Part of the **Automators+** skills library -- Claude Code skills shared with the Automators community: https://www.skool.com/automation-forge-7306/about
 
 Turn plain text into finished, on-brand social images and carousels, right inside a local studio app. Slides are drawn in code on your own machine, so a whole deck stays cohesive by construction and the text slides cost nothing to produce. You write the copy, Claude drafts the slides, then you edit everything live in the browser. Artwork generation is available too, through the Higgsfield CLI, with no API keys to manage.
 
